@@ -1,0 +1,10 @@
+D:\Projects\shutdown on startup\shutdown on startup\bin\Debug\shutdown on startup.exe.config
+D:\Projects\shutdown on startup\shutdown on startup\bin\Debug\shutdown on startup.exe
+D:\Projects\shutdown on startup\shutdown on startup\bin\Debug\shutdown on startup.pdb
+D:\Projects\shutdown on startup\shutdown on startup\obj\Debug\shutdown on startup.csprojAssemblyReference.cache
+D:\Projects\shutdown on startup\shutdown on startup\obj\Debug\shutdown_on_startup.Form1.resources
+D:\Projects\shutdown on startup\shutdown on startup\obj\Debug\shutdown_on_startup.Properties.Resources.resources
+D:\Projects\shutdown on startup\shutdown on startup\obj\Debug\shutdown on startup.csproj.GenerateResource.cache
+D:\Projects\shutdown on startup\shutdown on startup\obj\Debug\shutdown on startup.csproj.CoreCompileInputs.cache
+D:\Projects\shutdown on startup\shutdown on startup\obj\Debug\shutdown on startup.exe
+D:\Projects\shutdown on startup\shutdown on startup\obj\Debug\shutdown on startup.pdb
